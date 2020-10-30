@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,cACE,aAAc,CACd,gBACF,CAEA,YACE,aACF","file":"main.dbbd191c.chunk.css","sourcesContent":[".js-container {\n  max-width: 50%;\n  margin: 5% auto 0;\n}\n\n.list-group {\n  transition: 5s;\n}\n"]}
